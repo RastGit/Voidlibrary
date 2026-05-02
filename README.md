@@ -1,6 +1,6 @@
 # Voidlibrary
 
-> **Modern Roblox UI Library** — Style inspired by Roblox's native interface (2024+)
+> **Modern Roblox UI Library** — Style inspired by Roblox's native interface (Used by ERROR404 TEAM)
 
 [![Version](https://img.shields.io/badge/version-1.0.0-55AAFF?style=flat-square)](https://github.com/RastGit/Voidlibrary)
 [![Platform](https://img.shields.io/badge/platform-PC%20%2B%20Mobile-brightgreen?style=flat-square)](https://github.com/RastGit/Voidlibrary)
